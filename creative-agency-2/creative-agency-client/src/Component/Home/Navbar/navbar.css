@@ -1,0 +1,23 @@
+.nav-link{
+    font-size: 15px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.user-logo{
+    width: 30px;
+    border-radius: 100%;
+}
+
+.dropdown-item:hover{
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.dropdown-menu{
+    left: 30px;
+    background-color: #232b2dd1;
+    border: none;
+}

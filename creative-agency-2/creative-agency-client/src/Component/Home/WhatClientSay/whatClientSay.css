@@ -1,0 +1,11 @@
+.feedback-img{
+    height: 50px;
+    border-radius: 100%;
+}
+.mainCard {
+    padding: 10px;
+}
+
+.companyName {
+    margin-top: -20px;
+}

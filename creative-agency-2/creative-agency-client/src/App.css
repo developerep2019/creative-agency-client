@@ -1,0 +1,23 @@
+.btn{
+    background-color: #111430;
+    color: #fff !important;
+    display: inline;
+  }
+  
+  .btn-admin{
+    color: #fff !important;
+    display: inline;
+    background-color: #009444;
+  }
+  
+  .creative-header{
+    color: #111430;
+  }
+  
+  .brand-color{
+    color: #7AB259;
+  }
+  
+  .h2-header{
+    color: #2d2d2d;
+  }

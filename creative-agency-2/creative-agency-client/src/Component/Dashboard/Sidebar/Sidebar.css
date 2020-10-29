@@ -1,0 +1,11 @@
+.list-unstyled li{
+    transition: .3s;
+}
+.list-unstyled li:hover{
+    transform: translateX(5px);
+    color: #009444 !important;
+}
+.list-unstyled li:active{
+    color: #009444;
+    transform: translateX(0)
+}
